@@ -1,0 +1,2 @@
+allow_ssh_access=["52.123.123.123/32"]
+subnet_cidr={public = "172.16.10.0/24", private = "172.16.11.0/24"}
